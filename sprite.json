@@ -1,0 +1,26 @@
+{
+  "gold_tree": {
+    "width": 28,
+    "height": 50,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "green_tree": {
+    "width": 28,
+    "height": 50,
+    "x": 28,
+    "y": 0,
+    "pixelRatio": 1,
+    "visible": true
+  },
+  "white_tree": {
+    "width": 28,
+    "height": 50,
+    "x": 0,
+    "y": 50,
+    "pixelRatio": 1,
+    "visible": true
+  }
+}
